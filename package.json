@@ -1,0 +1,30 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "emotion": "^9.2.5",
+    "express": "^4.14.0",
+    "lodash": "^4.17.10",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-emotion": "^9.2.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^3.5.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.1.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start-webserver": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test",
+    "start": "react-scripts start"
+  }
+}
